@@ -1,6 +1,8 @@
 # supplementary-file-for-low-carbon-scheduling
 
-Supplementary files for the paper entitled "Low-Carbon Scheduling of Coupled Traffic-Power Networks with a Uniform Carbon Pricing Scheme".
+Supplementary files for the paper entitled "Enhancing Emission Reduction of Coupled Power-Traffic Networks Based on Energy-Carbon Integrated Prices".
+
+**Due to the page limitation, the topology, data are provided here. Besides, another test system is provided for testing as well, which may be supplemented in the paper later if necessary.**
 
 The following files are included:
 
@@ -9,4 +11,4 @@ The following files are included:
 3. **Model** of carbon pricing method adopted as • *Method 1* and • *Method 2*;
 4. **Explanation** of the **extra payment problem** (and also of • *Method 1*);
 5. **Model** and **Algorithm** of the accuracy-aware adaptive piece-wise linearization (AAPWL) method adopted as • *Case C*;
-6. **Sensitivity analysis**, which is conducted on *Test System 2*. The impact of EV penetration level on scheduling results and the charging price (i.e., the energy-carbon integrated price, ECIP for short) design is investigated, and the sensitivity analysis of the carbon tax is supplemented (this part is provided on page 10 of this work as well).
+6. **Sensitivity analysis**, which is conducted on *Test System 2*. The impact of EV penetration level on scheduling results and the charging price (i.e., the energy-carbon integrated price, ECIP for short) design is investigated, and the sensitivity analysis of the carbon tax is supplemented.
